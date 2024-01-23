@@ -1,6 +1,6 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/288237769d6e1d05bf3d397f5293711c1017223504cceb2e0805dce06647feb8/68747470733a2f2f7777772e73747265616d6e6574776f726b732e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f43796265722d73656375726974792d62616e6e65725f2e6a7067"><img src="https://camo.githubusercontent.com/288237769d6e1d05bf3d397f5293711c1017223504cceb2e0805dce06647feb8/68747470733a2f2f7777772e73747265616d6e6574776f726b732e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f43796265722d73656375726974792d62616e6e65725f2e6a7067" alt="MarterHead" data-canonical-src="https://www.streamnetworks.co.uk/wp-content/uploads/Cyber-security-banner_.jpg" style="max-width: 100%;"></a>
 <h1 align="center">Hi 👋, I'm Indrajit Karmakar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full stack developer & Ethical Hacker from India</h3>
 <img align="right" alt="hacking" width="200" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajitkar&label=Profile%20views&color=0e75b6&style=flat" alt="indrajitkar" /> </p>
