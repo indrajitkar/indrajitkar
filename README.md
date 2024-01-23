@@ -15,7 +15,7 @@ My skills include full-stack web development, PHP, Java, CSS, HTML, Bootstrap, P
 <p align="left">
 <a href="https://fb.com/pickup.knowledge.india" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pickup.knowledge.india" height="30" width="40" /></a>
 <a href="https://instagram.com/lucifer.1337.ik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucifer.1337.ik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pickupknowledge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pickupknowledge" height="30" width="40" /></a>
+<a href="https://www.youtube.com/pickupknowledge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pickupknowledge" height="30" width="40" /></a>
 <a href="https://discord.gg/9PrCFtea2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9PrCFtea2f" height="30" width="40" /></a>
 </p>
 
