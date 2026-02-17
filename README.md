@@ -7,7 +7,7 @@
 <img align="right" alt="hacking" width="200" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajitkar&label=Profile%20views&color=0e75b6&style=flat" alt="indrajitkar" /> </p>
-Welcome to my GitHub page! I am Indrajit Karmakar, a seasoned cybersecurity professional with 7 years of experience in ethical hacking. 
+Welcome to my GitHub page! I am Indrajit Karmakar, a seasoned cybersecurity professional with 9 years of experience in ethical hacking. 
 My skills include full-stack web development, PHP, Java, CSS, HTML, Bootstrap, Python, and JavaScript.
 
 - 📫 How to reach me **Pickup.knowledge.india@gmail.com**
