@@ -10,8 +10,6 @@
 Welcome to my GitHub page! I am Indrajit Karmakar, a seasoned cybersecurity professional with 7 years of experience in ethical hacking. 
 My skills include full-stack web development, PHP, Java, CSS, HTML, Bootstrap, Python, and JavaScript.
 
-- 🌱 I’m currently learning **react**
-
 - 📫 How to reach me **Pickup.knowledge.india@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
