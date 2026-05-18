@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.streamnetworks.co.uk/wp-content/uploads/Cyber-security-banner_.jpg" width="100%" alt="Cyber Security Banner" style="border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/indrajitkar/indrajitkar/refs/heads/main/banner.png" width="100%" alt="Cyber Security Banner" style="border-radius: 8px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Indrajit Karmakar</h1>
